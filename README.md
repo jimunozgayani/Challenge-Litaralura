@@ -31,3 +31,9 @@ Ojo con los nombres de usuario y demás rutas como podrás ver en application.pr
 - Spring Boot
 - PostgreSQL
 
+## 🧔 Autor
+![octocat-Juan Ignacio Muñoz](https://github.com/user-attachments/assets/3dee3c12-492d-4c53-bb2e-a0fd12931342)
+<h2>Juan Ignacio Muñoz</h2>
+
+
+
