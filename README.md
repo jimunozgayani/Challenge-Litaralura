@@ -1,5 +1,6 @@
-<h1 align="center"> Challenge-Litaralura </h1># 
-![Imagen de la consola de Intellij con el menu del programa](https://github.com/user-attachments/assets/d3287902-2419-4f7b-9c37-d57f4a41e423)
+<h1 align="center"> Challenge-Litaralura </h1>
+
+![image](https://github.com/user-attachments/assets/92d8c90f-2466-40fb-86b0-eccf749bbbf4)
 
 <h2>Repositorio para el challenge de alura Literalura, un espacio de bibliteca virtual en la consola de Java</h2>
 <p1>El proyecto es generar una biblioteca virtual utilizando herramientas de Java, Spring, Base de datos PostgreSQL, recursos API de Gutendex, para que en la representación de la consola se logre generar una serie de funcionalidades tanto con libros como con los autores de aquellos libros</p1>
